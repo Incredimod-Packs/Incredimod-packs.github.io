@@ -23,7 +23,8 @@
     },
     {
         "name": "Unusbox",
-        "availability": "unavailable",
+        "webapp": "https://incredimod-packs.github.io/Unusbox",
+        "availability": "playable",
         "pack-creator": "Desmondxx",
         "names": ["unusbox"]
     }
