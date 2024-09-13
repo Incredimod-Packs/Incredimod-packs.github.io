@@ -1,7 +1,7 @@
 [
     {
         "name": "Coldbox Plus",
-        "availability": "playable",
+        "availability": "unavailable",
         "pack-creator": "Desmondxx",
         "names": ["coldbox plus"]
     },
@@ -23,7 +23,7 @@
     },
     {
         "name": "Unusbox",
-        "availability": "playable",
+        "availability": "unavailable",
         "pack-creator": "Desmondxx",
         "names": ["unusbox"]
     }
