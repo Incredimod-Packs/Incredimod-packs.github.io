@@ -12,7 +12,7 @@
     "contribute": "Contribute on GitHub",
     "defaultnote_downloadable": "Visit the linked page and download the mod.",
     "defaultnote_email": "Send an email to the provided address and request account deletion.",
-    "footercredits": "Made by",
+    "footercredits": "Pack Made by",
     "guide": "Guide",
     "guidedemo": "available in demo/beta form via webapp only",
     "guidedemominus": "available in demo/beta form via downloads only",
@@ -37,9 +37,9 @@
     "search": "Search",
     "sendmail": "Send email",
     "showinfo": "show info...",
-    "tagline": "A directory of direct links to download incredibox mods.",
+    "tagline": "A directory of direct links to play incredibox mod packs.",
     "title": "Incredimod Index",
     "whatisthis": "What is this?",
-    "whatisthis1": "A complete index for Incredibox mod downloads.",
-    "whatisthis4": "Got a mod you think should be added?"
+    "whatisthis1": "A complete index for Incredibox mod packs.",
+    "whatisthis4": "Got a pack you think should be added/created?"
 }
