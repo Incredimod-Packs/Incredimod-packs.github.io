@@ -15,6 +15,8 @@
     {
         "name": "TBOI (The Beats Of Incredimen)",
         "webapp": "https://incredimod-packs.github.io/TBOI",
+        "android": "https://github.com/Incredimod-Packs/TBOI/releases/download/TBOI/The_Beats_Of_Incredimen_signed.apk",
+        "windows": "https://github.com/Incredimod-Packs/TBOI/releases/download/TBOI/The_Beats_Of_Incredimen.zip",
         "availability": "playable",
         "names": ["tboi"]
     },
