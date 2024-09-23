@@ -1,24 +1,33 @@
 [
     {
         "name": "Coldbox Plus",
-        "availability": "unavailable",
+        "webapp": "https://incredimod-packs.github.io/Coldbox-Plus",
+        "availability": "playable",
         "pack-creator": "Desmondxx",
         "names": ["coldbox plus"]
     },
     {
         "name": "Evadare",
+        "webapp": "https://incredimod-packs.github.io/Evadare",
+        "availability": "playable",
         "names": ["evadare"]
     },
     {
-        "names": "TBOI (The Beats Of Incredimen",
+        "names": "TBOI (The Beats Of Incredimen)",
+        "webapp": "https://incredimod-packs.github.io/TBOI",
+        "availability": "playable",
         "names": ["tboi"]
     },
     {
         "names": "Two Faces",
+        "webapp": "https://incredimod-packs.github.io/Two-Faces-Plus",
+        "availability": "playable",
         "names": ["two faces"]
     },
     {
         "names": "Unbelievabox",
+        "webapp": "https://incredimod-packs.github.io/Unbelievabox",
+        "availability": "playable",
         "names": ["unbelievabox"]
     },
     {
@@ -27,6 +36,14 @@
         "availability": "playable",
         "pack-creator": "Desmondxx",
         "names": ["unusbox"]
+    },
+    {
+        "name": "Zedbox",
+        "webapp": "https://incredimod-packs.github.io/Zedbox",
+        "android": "",
+        "windows": "",
+        "availability": "playable",
+        "names": ["zedbox"]
     }
 ]
   
