@@ -40,7 +40,7 @@
     {
         "name": "Zedbox",
         "webapp": "https://incredimod-packs.github.io/Zedbox",
-        "android": "",
+        "android": "https://github.com/Incredimod-Packs/Zedbox/releases/download/Zedbox/Zedbox_project-2_Gestalt_signed.apk",
         "windows": "",
         "availability": "playable",
         "names": ["zedbox"]
