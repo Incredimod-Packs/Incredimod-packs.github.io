@@ -13,19 +13,19 @@
         "names": ["evadare"]
     },
     {
-        "names": "TBOI (The Beats Of Incredimen)",
+        "name": "TBOI (The Beats Of Incredimen)",
         "webapp": "https://incredimod-packs.github.io/TBOI",
         "availability": "playable",
         "names": ["tboi"]
     },
     {
-        "names": "Two Faces",
+        "name": "Two Faces",
         "webapp": "https://incredimod-packs.github.io/Two-Faces-Plus",
         "availability": "playable",
         "names": ["two faces"]
     },
     {
-        "names": "Unbelievabox",
+        "name": "Unbelievabox",
         "webapp": "https://incredimod-packs.github.io/Unbelievabox",
         "availability": "playable",
         "names": ["unbelievabox"]
