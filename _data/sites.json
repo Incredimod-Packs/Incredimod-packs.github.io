@@ -27,10 +27,11 @@
         "names": ["the bells plus"]
     },
     {
-        "name": "The Last Show";
+        "name": "The Last Show",
         "webapp": "https://incredimod-packs.github.io/The-Last-Show",
         "availability": "playable",
         "names": ["the last show"]
+    },
     {
         "name": "Two Faces Plus",
         "webapp": "https://incredimod-packs.github.io/Two-Faces-Plus",
