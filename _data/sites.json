@@ -23,7 +23,7 @@
     {
         "name": "The Bells Plus",
         "webapp": "https://incredimod-packs.github.io/The-Bells-Plus",
-        "availability" "playable",
+        "availability": "playable",
         "names": ["the bells plus"]
     },
     {
